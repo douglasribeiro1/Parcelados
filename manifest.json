@@ -2,25 +2,23 @@
   "name": "Gestor de Cartão",
   "short_name": "Finanças",
   "start_url": "./index.html",
-  "id": "/index.html",
+  "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#ffffff",
   "theme_color": "#4F46E5",
   "icons": [
     {
-      "src": "https://img.icons8.com/color/192/credit-card-front.png",
+      "src": "./icon.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "https://img.icons8.com/color/512/credit-card-front.png",
+      "src": "./icon.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
     }
   ]
 }
-
-
